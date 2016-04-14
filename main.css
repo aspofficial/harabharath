@@ -1,0 +1,63 @@
+
+.upper_header{
+	height: 40px;
+	width: 100%;
+	background-color: #000;
+}
+
+.upper_header a{
+	color: #fff;
+}
+
+.upper_header_btn{
+	height: 40px; 
+	border: none;
+	background-color: #000;
+	color: #fff;
+}
+.upper_header_btn:hover{
+	background-color: #ED5258;
+}
+
+.header{
+	width:100%;
+	background-color: #1A1A1A;
+}
+
+.logo{
+	cursor: pointer;
+}
+
+.cart_btn{
+	font-size: 1.6em;
+	height: 50px;
+	width: 175px;
+	color: #fff;
+	background-color: #ED5258;
+	cursor: pointer;
+}
+
+.category_tab{
+	width: 100%;
+	height: 60px;
+	background-color: #1D1D1D;
+}
+
+.category_tab_btn{
+	height: 60px;
+	color: #fff;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.category_tab_btn:hover{
+	background-color: #ED5258;
+	cursor: pointer;
+}
+
+.slide{
+	height: 700px;
+}
+.slide_img{
+	width: 100%;
+}
